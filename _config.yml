@@ -1,0 +1,33 @@
+# Site settings
+title: Qwill Duvall
+email: qwill.duvall@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+twitter_username: twitter_username
+github_username: qwilanikan
+
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  oil_painting:
+    output: true
+    permalink: /oil_painting/:path/
+  ceramics:
+    output: true
+    permalink: /ceramics/:path/
+  watercolor:
+    output: true
+    permalink: /watercolor/:path/
+
+
