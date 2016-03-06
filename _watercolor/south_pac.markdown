@@ -3,7 +3,7 @@ layout: post
 title: South Pacific
 description: watercolor and guache
 year: 2013
-img: /img/watercolor/south_pac_1.jpg
+img: /img/watercolor/south_pac_2.jpg
 image:
     - src: /img/watercolor/south_pac_1.jpg
     - src: /img/watercolor/south_pac_2.jpg
