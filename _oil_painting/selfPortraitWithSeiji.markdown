@@ -3,9 +3,9 @@ layout: post
 title: Self Portrait with Seiji
 description: Oil on canvas
 year: 2011
-img: /img/oil/SelfPortraitWithSeiji.jpg
+img: /img/oil/selfPortraitWithSeiji.jpg
 image:
-    - src: /img/oil/SelfPortraitWithSeiji.jpg
+    - src: /img/oil/selfPortraitWithSeiji.jpg
 ---
 <figure>
   <img

@@ -29,5 +29,8 @@ collections:
   watercolor:
     output: true
     permalink: /watercolor/:path/
+  drawing:
+    output: true
+    permalink: /drawing/:path/
 
 
