@@ -3,7 +3,7 @@ layout: post
 title: Goodhue
 description: Pen and ink and ink wash
 year: 2010
-img: /img/watercolor/carleton.sm_1_.jpg
+img: /img/watercolor/carleton.sm_1.jpg
 image:
     - src: /img/watercolor/carleton.sm_1.jpg
 ---
