@@ -30,6 +30,10 @@ image:
     class="post-image" src="{{ page.image[1].src }}">
 </figure>
 
+<br/>
+All of us walk through life collecting scars.  Some of these scars are physical, while others are mental or psychological.  Some are chosen.  Others are accidental.  Some give us pain, or remind us of pain.  All are stories.  We wear our history on our skin.
+<br/>
+<br/>
 
 <figure>
   <img
@@ -42,6 +46,10 @@ image:
     class="post-image" src="{{ page.image[3].src }}">
 </figure>
 
+<br/>
+For some people, scars are a physical reminder of a transition of their body.  Many people whose gender identity is not the same as the gender they were assigned at birth, or trans* people, feel discomfort and disconnect, towards the body they were born with.  Through gender affirmation surgery, they may change things about their body to make themselves feel more comfortable.
+<br/>
+<br/>
 
 <figure>
   <img
@@ -54,6 +62,9 @@ image:
     class="post-image" src="{{ page.image[5].src }}">
 </figure>
 
+<br/>
+I hope to convey this concept through my work. My pieces represent a person whose body has been surgically altered and healed with a scar signifying where that change has occurred.  The change becomes a part of the body; an integral part of the object.  
+<br/>
 
 <figure>
   <img
@@ -66,6 +77,10 @@ image:
     class="post-image" src="{{ page.image[7].src }}">
 </figure>
 
+<br/>
+People experience life through the objects in their life, as they experience it through their body.  When you interact with a body, you cannot help but interact with its scars and confront the history of those scars.  The same is true for my pieces.
+<br/>
+<br/>
 
 <figure>
   <img
@@ -77,15 +92,3 @@ image:
   <img
     class="post-image" src="{{ page.image[9].src }}">
 </figure>
-
-<br/>
-<br/>
-All of us walk through life collecting scars.  Some of these scars are physical, while others are mental or psychological.  Some are chosen.  Others are accidental.  Some give us pain, or remind of us pain.  All are stories.  We wear our history on our skin.
-<br/>
-<br/>
-For some people, scars are a physical reminder of a transition of their body.  Many people whose gender identity is not the same as the gender they were assigned at birth, or trans* people, feel discomfort and disconnect, towards the body they were born with.  Through gender affirmation surgery, they may change things about their body to make themselves feel more comfortable.
-<br/>
-<br/>
-I hope to convey this concept through my work. My pieces represent a person whose body has been surgically altered and healed with a scar signifying where that change has occurred.  The change becomes a part of the body; an integral part of the object.  
-<br/>
-People experience life through the objects in their life, as they experience it through their body.  When you interact with a body, you cannot help but interact with its scars and confront the history of those scars.  The same is true for my pieces.
