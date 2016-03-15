@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bowls for holding
+title: Bowls for Holding
 description: Woodfired Stoneware
 year: 2011
 img: /img/ceramics/hand_hold_bowls.jpg

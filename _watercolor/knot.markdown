@@ -1,6 +1,6 @@
 ---
 layout: post
-title: knot
+title: Knot
 description: brush pen and guache
 year: 2013
 img: /img/watercolor/knot.jpg
