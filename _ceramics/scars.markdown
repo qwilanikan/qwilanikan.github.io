@@ -47,7 +47,7 @@ All of us walk through life collecting scars.  Some of these scars are physical,
 </figure>
 
 <br/>
-For some people, scars are a physical reminder of a transition of their body.  Many people whose gender identity is not the same as the gender they were assigned at birth, or trans* people, feel discomfort and disconnect, towards the body they were born with.  Through gender affirmation surgery, they may change things about their body to make themselves feel more comfortable.
+For some people, scars are a physical reminder of a transition of their body.  Many people whose gender identity is not the same as the gender they were assigned at birth, or transgender people, feel discomfort and disconnect, towards the body they were born with.  Through gender affirmation surgery, they may change things about their body to make themselves feel more comfortable.
 <br/>
 <br/>
 
