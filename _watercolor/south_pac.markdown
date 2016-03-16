@@ -8,7 +8,7 @@ image:
     - src: /img/watercolor/south_pac_1.jpg
     - src: /img/watercolor/south_pac_2.jpg
     - src: /img/watercolor/south_pac_3.jpg
-    - src: /img/watercolor/south_pac_4.jpg
+    - src: /img/watercolor/Southpac.2up.jpg
     - src: /img/watercolor/south_pac_5.jpg
     - src: /img/watercolor/south_pac_6.jpg
     - src: /img/watercolor/south_pac_7.jpg
@@ -16,7 +16,6 @@ image:
     - src: /img/watercolor/south_pac_9.jpg
     - src: /img/watercolor/south_pac_11.jpg
     - src: /img/watercolor/south_pac_12.jpg
-    - src: /img/watercolor/south_pac_13.jpg
     - src: /img/watercolor/south_pac_14.jpg
 ---
 
