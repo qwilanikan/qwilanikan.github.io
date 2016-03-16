@@ -82,14 +82,3 @@ image:
 </figure>
 
 
-<figure>
-  <img
-    class="post-image" src="{{ page.image[12].src }}">
-</figure>
-
-
-<figure>
-  <img
-    class="post-image" src="{{ page.image[13].src }}">
-</figure>
-
