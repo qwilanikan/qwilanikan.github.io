@@ -25,6 +25,6 @@ Qwill is a non-binary artist who uses they/them pronouns.  They live and work in
 </span>
 
 <div class="col three caption">
-	Feel free to contact me
+	Feel free to contact me!
 </div>
 
