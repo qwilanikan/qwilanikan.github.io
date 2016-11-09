@@ -26,6 +26,9 @@ collections:
   ceramics:
     output: true
     permalink: /ceramics/:path/
+  metals:
+      output: true
+      permalink: /metals/:path/
   watercolor:
     output: true
     permalink: /watercolor/:path/
