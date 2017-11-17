@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Corner
-description: Charcoal Pencil
+description: Charcoal
 year: 2010
 img: /img/drawing/GSC.jpg
 image:
