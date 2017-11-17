@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Born in 1991, Qwill Duvall grew up in White Bear Lake Minnesota.  They received a BA in Studio Art as well as Computer Science from Carleton College in 2014.  During their time at Carleton they also studied for a semester in the South Pacific.
+Born in 1991, Qwill Duvall grew up in White Bear Lake, Minnesota.  They received a BA in Studio Art as well as Computer Science from Carleton College in 2014.  During their time at Carleton they also studied art for a semester in the South Pacific.
 
-Qwill is a non-binary artist who uses they/them pronouns.  They live and work in Chicago, Illinois.  They are interested in exploring many different mediums in their work.
+Qwill is a non-binary artist who uses they/them pronouns.  They live and work in Chicago, Illinois.  Qwill is interested in exploring many different mediums in their work.
 
 <!--<a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>-->
 
