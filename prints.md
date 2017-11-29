@@ -2,7 +2,6 @@
 layout: page
 permalink: /prints/
 title: Prints
-description: Coming soon!
 ---
 {% for project in site.prints %}
 
