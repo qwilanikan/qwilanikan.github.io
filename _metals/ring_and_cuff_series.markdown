@@ -3,7 +3,7 @@ layout: post
 title: Rings and Ear Cuffs
 description: Lost wax cast silver and bronze
 year: 2017
-img: /img/metals/statement_ring.jpg
+img: /img/metals/preview_small_braid_ring copy.jpg
 image:
     - src: /omg/metals/band_with_triangles.jpg
     - src: /img/metals/bronze_bumpy_ring.jpg

@@ -3,7 +3,7 @@ layout: post
 title: Final Frontier
 description: Lost wax cast silver
 year: 2014
-img: /img/metals/final_frontier_ring.jpg
+img: /img/metals/preview_final_frontier_ring.jpg
 image:
     - src: /img/metals/final_frontier_pendant.jpg
     - src: /img/metals/final_frontier_ring.jpg
