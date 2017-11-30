@@ -17,7 +17,7 @@ title: Prints
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.year }}</p>
         </span>
         </a>
     </div>
@@ -35,7 +35,7 @@ title: Prints
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.year }}</p>
         </span>
         </a>
     </div>
