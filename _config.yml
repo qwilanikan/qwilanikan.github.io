@@ -27,8 +27,11 @@ collections:
     output: true
     permalink: /ceramics/:path/
   metals:
-      output: true
-      permalink: /metals/:path/
+    output: true
+    permalink: /metals/:path/
+  prints:
+    output: true
+    permalink: /prints/:path/
   watercolor:
     output: true
     permalink: /watercolor/:path/
