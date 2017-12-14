@@ -2,7 +2,7 @@
 title: Qwill Duvall
 email: qwill.duvall@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  #A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
 url: # the base hostname & protocol for your site
 
