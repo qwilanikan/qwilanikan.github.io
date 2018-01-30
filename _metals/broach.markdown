@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Broach
+title: Brooch
 description: Lost wax cast and fabricated bronze, enamel and seine twine
 year: 2014
 img: /img/metals/preview_broach.jpg
