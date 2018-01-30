@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Brooch
+title: Wedding Rings
 description: Lost wax cast silver
 year: 2017
 img: /img/metals/wedding_ring_preview_.jpg
 image:
     - src: /img/metals/aleah_chris_wedding_rings.jpg
-    - src: /img/metals/aleah_chris_wedding_ring_cropped_.jpg
+    - src: /img/metals/aleah_chris_wedding_ring_cropped.jpg
 
 ---
 <figure>
