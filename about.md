@@ -11,6 +11,8 @@ Born in 1991, Qwill Duvall grew up in White Bear Lake, Minnesota.  They received
 
 Qwill is a non-binary artist who uses they/them pronouns.  They live and work in Chicago, Illinois.  Qwill is interested in exploring many different mediums in their work.
 
+Comissions welcome!
+
 <!--<a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>-->
 
 <br/>
