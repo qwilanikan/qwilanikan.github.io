@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Meal with Leanard Nimoy
+title: A Meal with Leonard Nimoy
 description: Stoneware
 year: 2013
 img: /img/ceramics/meal_with_nimoy.jpg
