@@ -15,34 +15,15 @@ image:
 <figure>
   <img
     class="post-image" src="{{ page.image[0].src }}">
+    class="post-image" src="{{ page.image[4].src }}">
 </figure>
-
-
 <figure>
   <img
     class="post-image" src="{{ page.image[1].src }}">
+    class="post-image" src="{{ page.image[5].src }}">
 </figure>
-
-
 <figure>
   <img
     class="post-image" src="{{ page.image[2].src }}">
-</figure>
-
-
-<figure>
-  <img
-    class="post-image" src="{{ page.image[3].src }}">
-</figure>
-
-
-<figure>
-  <img
-    class="post-image" src="{{ page.image[4].src }}">
-</figure>
-
-
-<figure>
-  <img
-    class="post-image" src="{{ page.image[5].src }}">
+    class="post-image" src="{{ page.image[6].src }}">
 </figure>
