@@ -12,14 +12,13 @@ image:
     - src: /img/metals/plant_cuff_front.jpg
     - src: /img/metals/plant_cuff_back.jpg
 ---
-<figure>
+<div class="img_row">
   <img class="col one" src="{{ page.image[0].src }}">
   <img class="col one" src="{{ page.image[2].src }}">
   <img class="col one" src="{{ page.image[4].src }}">
-</figure>
-
-<figure>
+</div>
+<div class="img_row">
   <img class="col one" src="{{ page.image[1].src }}">
   <img class="col one" src="{{ page.image[3].src }}">
   <img class="col one" src="{{ page.image[5].src }}">
-</figure>
+</div>
