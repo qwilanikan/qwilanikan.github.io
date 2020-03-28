@@ -16,8 +16,6 @@ image:
   <img class="col one" src="{{ page.image[0].src }}">
   <img class="col one" src="{{ page.image[2].src }}">
   <img class="col one" src="{{ page.image[4].src }}">
-</figure>
-<figure>
   <img class="col one" src="{{ page.image[1].src }}">
   <img class="col one" src="{{ page.image[3].src }}">
   <img class="col one" src="{{ page.image[5].src }}">
