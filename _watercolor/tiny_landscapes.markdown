@@ -16,5 +16,5 @@ image:
 
 <figure>
   <img
-    class="post-image" src="{{ page.image[0].src }}">
+    class="post-image" src="{{ page.image[1].src }}">
 </figure>

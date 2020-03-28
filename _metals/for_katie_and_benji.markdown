@@ -3,9 +3,9 @@ layout: post
 title: For Katie and Benji
 description: Lost wax cast silver
 year: 2018
-img: /img/metals/katie_and_benji.jpg
+img: /img/metals/katie_benji.jpg
 image:
-    - src: /img/metals/katie_and_benji.jpg
+    - src: /img/metals/katie_benji.jpg
     - src: /img/metals/katie.jpg
     - src: /img/metals/benji.jpg
 ---

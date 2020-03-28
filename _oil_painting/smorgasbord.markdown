@@ -2,7 +2,7 @@
 layout: post
 title: Smorgasbord
 description: Oil on canvas
-year: 2012
+year: 2018
 img: /img/oil/smorgasbord.jpg
 image:
     - src: /img/oil/smorgasbord.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vida Antiga
+title: Vida Antiga
 description: Lost wax cast silver
 year: 2019
 img: /img/metals/vida_antiga.jpg
