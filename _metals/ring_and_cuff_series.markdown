@@ -24,33 +24,33 @@ image:
     - src: /img/metals/statement_ring.jpg
     - src: /img/metals/two_tone_ring_and_cuff.jpg
 ---
-<figure>
+<div class="img_row">
   <img class="col one" src="{{ page.image[0].src }}">
   <img class="col one" src="{{ page.image[1].src }}">
   <img class="col one" src="{{ page.image[2].src }}">
-</figure>
-<figure>
+</div>
+<div class="img_row">
   <img class="col one" src="{{ page.image[3].src }}">
   <img class="col one" src="{{ page.image[4].src }}">
   <img class="col one" src="{{ page.image[5].src }}">
-</figure>
-<figure>
+</div>
+<div class="img_row">
   <img class="col one" src="{{ page.image[6].src }}">
   <img class="col one" src="{{ page.image[7].src }}">
   <img class="col one" src="{{ page.image[8].src }}">
-</figure>
-<figure>
+</div>
+<div class="img_row">
   <img class="col one" src="{{ page.image[9].src }}">
   <img class="col one" src="{{ page.image[10].src }}">
   <img class="col one" src="{{ page.image[11].src }}">
-</figure>
-<figure>
+</div>
+<div class="img_row">
   <img class="col one" src="{{ page.image[12].src }}">
   <img class="col one" src="{{ page.image[13].src }}">
   <img class="col one" src="{{ page.image[14].src }}">
-</figure>
-<figure>
+</div>
+<div class="img_row">
   <img class="col one" src="{{ page.image[15].src }}">
   <img class="col one" src="{{ page.image[16].src }}">
   <img class="col one" src="{{ page.image[17].src }}">
-</figure>
+</div>
