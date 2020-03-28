@@ -9,7 +9,6 @@ image:
     - src: /img/drawing/figure_2.jpg
     - src: /img/drawing/figure_3.jpg
 ---
-
 <figure>
   <img
     class="post-image" src="{{ page.image[0].src }}">

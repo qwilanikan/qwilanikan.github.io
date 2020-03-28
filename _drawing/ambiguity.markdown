@@ -9,7 +9,6 @@ image:
     - src: /img/drawing/ambiguity_2.jpg
     - src: /img/drawing/ambiguity_3.jpg
 ---
-
 <figure>
   <img
     class="post-image" src="{{ page.image[0].src }}">
@@ -24,6 +23,3 @@ image:
   <img
     class="post-image" src="{{ page.image[2].src }}">
 </figure>
-
-
-
