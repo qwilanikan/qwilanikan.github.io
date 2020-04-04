@@ -8,6 +8,7 @@ image:
     - src: /img/metals/wave_pendant.jpg
     - src: /img/metals/twig_pendant.jpg
     - src: /img/metals/curly_pendant.jpg
+    - src: /img/metals/bulb_pendant.jpg
     - src: /img/metals/jagged_pendant.jpg
 ---
 <figure>
@@ -25,6 +26,12 @@ image:
 <figure>
   <img
     class="post-image" src="{{ page.image[2].src }}">
+</figure>
+
+
+<figure>
+  <img
+    class="post-image" src="{{ page.image[3].src }}">
 </figure>
 
 
