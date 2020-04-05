@@ -237,6 +237,9 @@ background: rgba(0,0,0,0.4);
 color: $grey-color-light;
 padding: 40px;
 text-align: center;
+@include media-query($on-laptop) {
+display: block;
+  }
 }
 .thumbnail a:hover span {
 display: block;
