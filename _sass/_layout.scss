@@ -1,4 +1,3 @@
-
 /**
  * Site header   **********************************************************
  */
@@ -9,9 +8,12 @@ opacity: 0.75;
 position:fixed;
 left:0px;
 top:0px;
-height:56px;
+height:$nav-height;
 width:100%;
 z-index: 50;
+@include media-query($on-palm) {
+height: $nav-height*2
+    }
 }
 
 .site-title {
@@ -137,6 +139,7 @@ letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
 font-size: 36px;
+padding-top: $nav-height*.75
     }
 }
 .post-content {
@@ -162,7 +165,7 @@ font-size: 18px;
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
+margin-bottom: 0px;
 }
 .post-link {
 display: block;
@@ -180,7 +183,7 @@ font-size: 16px;
 }
 
 
-/** 
+/**
  * Portfolio grid **********************************************************
 */
 // Nicolas Gallagher's micro clearfix hack
@@ -200,6 +203,10 @@ float: left;
 vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
+@include media-query($on-palm) {
+width: 100%;
+padding: $img_spacing;
+  }
 }
 .thumbnail{
 width: 100%;
@@ -234,7 +241,7 @@ text-align: center;
 .thumbnail a:hover span {
 display: block;
 }
-/** 
+/**
  * Portfolio pages **********************************************************
 */
 .blankbox{
@@ -246,8 +253,11 @@ width: 100%;
 overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
+@include media-query($on-palm) {
+overflow: visible;
+  }
 }
-.col{ 
+.col{
 width: 100%;
 height: 100%;
 float: left;
@@ -260,9 +270,15 @@ float: right;
 }
 .one {
 width:33.33%;
+@include media-query($on-palm) {
+width: 100%;
+  }
 }
 .two {
 width: 66.66%;
+@include media-query($on-palm) {
+width: 100%;
+  }
 }
 .three{
 width: 100%;
