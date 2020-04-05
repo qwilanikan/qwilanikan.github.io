@@ -3,7 +3,7 @@ layout: page
 permalink: /oil-painting/
 title: Oil Painting
 ---
-{% for project in site.oil_painting %}
+{% for project in site.oil_painting reversed %}
 
 {% if project.redirect %}
 <div class="project">

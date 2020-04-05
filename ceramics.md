@@ -4,7 +4,7 @@ title: Ceramics
 permalink: /ceramics/
 ---
 
-{% for project in site.ceramics %}
+{% for project in site.ceramics reversed%}
 
 {% if project.redirect %}
 <div class="project">

@@ -4,7 +4,7 @@ title: Metals
 permalink: /metals/
 ---
 
-{% for project in site.metals %}
+{% for project in site.metals reversed %}
 
 {% if project.redirect %}
 <div class="project">

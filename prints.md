@@ -3,7 +3,7 @@ layout: page
 permalink: /prints/
 title: Prints
 ---
-{% for project in site.prints %}
+{% for project in site.prints reversed %}
 
 {% if project.redirect %}
 <div class="project">

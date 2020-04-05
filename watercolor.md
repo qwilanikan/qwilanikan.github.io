@@ -3,7 +3,7 @@ layout: page
 permalink: /watercolor/
 title: Watercolor
 ---
-{% for project in site.watercolor %}
+{% for project in site.watercolor reversed %}
 
 {% if project.redirect %}
 <div class="project">
