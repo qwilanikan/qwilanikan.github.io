@@ -301,6 +301,9 @@ font-size: $caption_font_size;
   margin: 1em -4.5em 0;
   max-width: none;
   width: calc(100% + 9em);
+  @include media-query($on-palm) {
+  margin: 1em -1em 0;
+    }
 }
 
 /**
