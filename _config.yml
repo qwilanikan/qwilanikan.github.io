@@ -39,5 +39,6 @@ collections:
   drawing:
     output: true
     permalink: /drawing/:path/
-
-
+  contra_calling:
+    output: true
+    permalink: /contra_calling/:path/

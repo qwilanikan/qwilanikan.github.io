@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Stories Our Bodies Tell
-description: Woodfired thrown and altered B clay
+description: Wood-fired thrown and altered B clay
 year: 2013
 img: /img/ceramics/scars_1.jpg
 image:

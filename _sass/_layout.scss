@@ -26,6 +26,7 @@ text-decoration: none;
 color: $theme-color;
     }
 }
+
 .site-nav {
 float: right;
 line-height: $nav-height;
@@ -50,6 +51,11 @@ display: line;
         }
     }
 }
+
+.left {
+  float: left;
+}
+
 
 .header-bar{
     left: 0px;
@@ -244,6 +250,16 @@ display: block;
 .thumbnail a:hover span {
 display: block;
 }
+.display-title a span {
+display: block;
+color: $white;
+background: $theme-color;
+}
+.display-title a:hover span {
+display: block;
+background: rgba(0,0,0,0.4);
+color: $grey-color-light;
+}
 /**
  * Portfolio pages **********************************************************
 */
@@ -292,6 +308,11 @@ color: $caption_color;
 text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
+}
+
+.profile-pic{
+  padding: 20px;
+  width:40%
 }
 
 /**
