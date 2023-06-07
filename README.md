@@ -9,6 +9,7 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 to run locally:
 bundle install
 bundle exec jekyll serve
+go to http://localhost:4000/
 
 
 ## Features

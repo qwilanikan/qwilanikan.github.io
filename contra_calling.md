@@ -19,6 +19,8 @@ Hello all! I am a contra dancer and caller from the midwest.  I began contra dan
 
 <div class="col three caption">
 	Shoot me an email if you'd ,like to book me for a gig!
+  <br/>
+  References available on request.
 </div>
 
 <br/>
