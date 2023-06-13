@@ -18,7 +18,7 @@ Hello all! I am a contra dancer and caller from the midwest.  I began contra dan
 </span>
 
 <div class="col three caption">
-	Shoot me an email if you'd ,like to book me for a gig!
+	Shoot me an email if you'd, like to book me for a gig!
   <br/>
   References available on request.
 </div>
@@ -49,13 +49,13 @@ Hello all! I am a contra dancer and caller from the midwest.  I began contra dan
 </div>
 {% else %}
 
-<div class="project ">
+<div class="project">
     <div class="thumbnail display-title">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-        <img class="thumbnail display-title" src="{{ project.img }}"/>
+        <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
-        <div class="thumbnail display-title blankbox"></div>
+        <div class="thumbnail blankbox"></div>
         {% endif %}
         <span>
             <h1>{{ project.title }}</h1>

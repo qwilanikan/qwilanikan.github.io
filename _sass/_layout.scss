@@ -239,7 +239,6 @@ top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
 color: $grey-color-light;
 padding: 40px;
 text-align: center;
@@ -249,17 +248,20 @@ display: block;
 }
 .thumbnail a:hover span {
 display: block;
-}
-.display-title a span {
-display: block;
-color: $white;
-background: $theme-color;
-}
-.display-title a:hover span {
-display: block;
 background: rgba(0,0,0,0.4);
-color: $grey-color-light;
 }
+
+.display-title a span {
+  display: block;
+  color: $white;
+}
+
+.display-title a:hover span {
+  display: block;
+  background: rgba(0,0,0,0.4);
+  color: $grey-color-light;
+}
+
 /**
  * Portfolio pages **********************************************************
 */
@@ -343,4 +345,25 @@ font-size: $caption_font_size;
   position: fixed;
   top: 0;
   left: 0;
+}
+
+/**
+ * Main page **********************************************************
+*/
+.background-image{
+  /* Set rules to fill background*/
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling*/
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning*/
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* make transparent*/
+  opacity: 0.2;
 }

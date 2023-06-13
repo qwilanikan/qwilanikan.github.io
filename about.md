@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right profile-pic" src="/img/prof_pic.jpg">
 
 <br/>
 Born in 1991, Qwill Duvall grew up in White Bear Lake, Minnesota.  They received a BA in Studio Art as well as Computer Science from Carleton College in 2014.  During their time at Carleton they also studied art for a semester in the South Pacific.
