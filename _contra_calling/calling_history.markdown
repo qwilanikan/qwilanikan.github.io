@@ -11,6 +11,8 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+Twin Cities Queer contra June 12, 2023
+<br/>
 Lake City Contra (Seattle) May 18, 2023
 <br/>
 Emerald City Contra (Seattle) May 5, 2023

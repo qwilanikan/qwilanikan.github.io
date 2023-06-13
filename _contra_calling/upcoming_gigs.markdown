@@ -11,8 +11,6 @@ image:
 
 <h4 class="post-description">Here's where you can find me coming up!</h4>
 <br/>
-Twin Cities Queer contra June 12, 2023
-<br/>
 Tapestry (Twin Cities) June 24, 2023
 <br/>
 Twin Cities Queer contra July 10, 2023
