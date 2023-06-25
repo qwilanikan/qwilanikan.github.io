@@ -11,6 +11,8 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+Tapestry (Twin Cities) -- June 24, 2023
+<br/>
 Twin Cities Queer contra -- June 12, 2023
 <br/>
 Lake City Contra (Seattle) -- May 18, 2023
