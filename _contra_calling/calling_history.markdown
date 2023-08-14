@@ -11,6 +11,14 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+Chicago Queer Contra -- August 12, 2023
+<br/>
+Chicago Monday Night -- August 7, 2023
+<br/>
+Tapestry (Minneapolis, Minnesota) -- August 5, 2023
+<br/>
+Twin Cities Queer contra -- July 10, 2023
+<br/>
 Tapestry (Twin Cities) -- June 24, 2023
 <br/>
 Twin Cities Queer contra -- June 12, 2023
