@@ -14,8 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  BIDA (Boston, Massachusetts) -- September 3, 2023
-  <br/>
   Surry Contra Dance (Maine) -- September 9, 2023
   <br/>
   Common Floor (Portland, Maine) -- September 10, 2023
@@ -33,8 +31,6 @@ image:
   Arden Contra (Delaware) -- November 5, 2023
   <br/>
   Princeton (New Jersey) -- November 8, 2023
-  <br/>
-  Amherst (Massachusetts) -- November 15, 2023
   <br/>
   Swingin Tern (New Jersey) -- November 18, 2023
   <br/>

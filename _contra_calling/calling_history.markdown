@@ -11,6 +11,8 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+BIDA (Boston, Massachusetts) -- September 3, 2023
+<br/>
 Chicago Queer Contra -- August 12, 2023
 <br/>
 Chicago Monday Night -- August 7, 2023

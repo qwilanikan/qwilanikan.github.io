@@ -1,0 +1,77 @@
+I"$
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/drawing/2019_animals/">
+        
+        <img class="thumbnail" src="/img/drawing/pig.jpg" />
+        
+        <span>
+            <h1>Animals</h1>
+            <br />
+            <p>2015 - 2019</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/drawing/2017_pet_portraits/">
+        
+        <img class="thumbnail" src="/img/drawing/lilly.jpg" />
+        
+        <span>
+            <h1>Pet Portraits</h1>
+            <br />
+            <p>2017</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/drawing/2012_figures/">
+        
+        <img class="thumbnail" src="/img/drawing/figure_3.jpg" />
+        
+        <span>
+            <h1>Figures</h1>
+            <br />
+            <p>2012</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/drawing/2012_ambiguity/">
+        
+        <img class="thumbnail" src="/img/drawing/ambiguity_2.jpg" />
+        
+        <span>
+            <h1>Ambiguity</h1>
+            <br />
+            <p>2012</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/drawing/2010_corner/">
+        
+        <img class="thumbnail" src="/img/drawing/GSC.jpg" />
+        
+        <span>
+            <h1>Corner</h1>
+            <br />
+            <p>2010</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+:ET
