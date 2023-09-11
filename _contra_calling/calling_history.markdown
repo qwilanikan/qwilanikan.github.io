@@ -11,6 +11,10 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+Common Floor (Portland, Maine) -- September 10, 2023
+<br/>
+Surry Contra Dance (Maine) -- September 9, 2023
+<br/>
 BIDA (Boston, Massachusetts) -- September 3, 2023
 <br/>
 Chicago Queer Contra -- August 12, 2023

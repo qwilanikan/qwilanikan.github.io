@@ -12,11 +12,6 @@ image:
 </figure>
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
-
-  <br/>
-  Surry Contra Dance (Maine) -- September 9, 2023
-  <br/>
-  Common Floor (Portland, Maine) -- September 10, 2023
   <br/>
   Country Dance New York -- October 7, 2023
   <br/>
@@ -39,4 +34,8 @@ image:
   Ottawa (Ontario, Canada)-- December 2, 2023
   <br/>
   Ann Arbor 2nd Saturday Contra (Michigan) -- December 9, 2023
+  <br/>
+  Chicago Monday Night -- December ??, 2023
+  <br/>
+  Tapestry (Minneapolis, Minnesota) -- December 23, 2023
   <br/>
