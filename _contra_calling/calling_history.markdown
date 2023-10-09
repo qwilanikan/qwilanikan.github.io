@@ -11,6 +11,8 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+Country Dance New York -- October 7, 2023
+<br/>
 Common Floor (Portland, Maine) -- September 10, 2023
 <br/>
 Surry Contra Dance (Maine) -- September 9, 2023

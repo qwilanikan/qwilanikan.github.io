@@ -13,8 +13,6 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  Country Dance New York -- October 7, 2023
-  <br/>
   Brooklyn Contra (New York) -- October 15, 2023
   <br/>
   Friday Night Dance (Glen Echo, Maryland) -- October 27, 2023
