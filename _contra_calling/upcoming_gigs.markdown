@@ -13,16 +13,6 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  Friday Night Dance (Glen Echo, Maryland) -- October 27, 2023
-  <br/>
-  Baltimore Contra (Maryland) -- November 1, 2023
-  <br/>
-  Mt. Airy (Philadelphia) -- November 2, 2023
-  <br/>
-  Arden Contra (Delaware) -- November 5, 2023
-  <br/>
-  Princeton (New Jersey) -- November 8, 2023
-  <br/>
   Swingin Tern (New Jersey) -- November 18, 2023
   <br/>
   Montreal (Québec, Canada) -- November 25, 2023

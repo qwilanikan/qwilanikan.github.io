@@ -11,6 +11,14 @@ image:
 
 <h4 class="post-description">All the places I've called in the past!</h4>
 <br/>
+Friday Night Dance (Glen Echo, Maryland) -- October 27, 2023
+<br/>
+Mt. Airy (Philadelphia) -- November 2, 2023
+<br/>
+Arden Contra (Delaware) -- November 5, 2023
+<br/>
+Princeton (New Jersey) -- November 8, 2023
+<br/>
 Brooklyn Contra (New York) -- October 15, 2023
 <br/>
 Country Dance New York -- October 7, 2023
