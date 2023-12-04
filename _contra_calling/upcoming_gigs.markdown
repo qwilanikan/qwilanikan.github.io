@@ -13,15 +13,12 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  Swingin Tern (New Jersey) -- November 18, 2023
-  <br/>
-  Montreal (Québec, Canada) -- November 25, 2023
-  <br/>
-  Ottawa (Ontario, Canada)-- December 2, 2023
-  <br/>
   Ann Arbor 2nd Saturday Contra (Michigan) -- December 9, 2023
   <br/>
-  Chicago Monday Night -- December ??, 2023
+  Chicago Monday Night -- December 18, 2023
   <br/>
   Tapestry (Minneapolis, Minnesota) -- December 23, 2023
   <br/>
+  Tapestry (Minneapolis, Minnesota) -- January 6, 2024
+  <br/>
+  Twin Cities Queer Contra -- January, 8, 2024

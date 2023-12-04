@@ -1,9 +1,8 @@
 ---
 layout: separate_post
-title: Calling Sample
-description: Qwill calling United We Dance
+title: Calling Samples
+description: Videos of Qwill's calling
 img:
-redirect: https://www.youtube.com/watch?v=M7o2cP3Oyaw
 
 ---
 
@@ -12,3 +11,14 @@ redirect: https://www.youtube.com/watch?v=M7o2cP3Oyaw
 or can I nest pages?
 
 https://www.youtube.com/watch?v=M7o2cP3Oyaw -->
+
+Butter by Gene Hubert In Ottawa (December 2, 2023) with Les Quatre Patates playing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vcJxJW9jGJk?si=v3vonKpuO89HsQKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+United We Dance by Bob Isaacs In Chicago (2019) with the Resurrection Marys playing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M7o2cP3Oyaw?si=7YF5cGm5pIe03jrp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+For fun, a video of singing with the Resurrection Marys during a contra (2019)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NimYGDU0WZM?si=w_bGMcmGimBPjxtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
