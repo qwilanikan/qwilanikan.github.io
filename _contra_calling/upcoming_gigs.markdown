@@ -13,12 +13,6 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  Ann Arbor 2nd Saturday Contra (Michigan) -- December 9, 2023
+  I will be calling a session at NEFFA in April 2024!
   <br/>
-  Chicago Monday Night -- December 18, 2023
-  <br/>
-  Tapestry (Minneapolis, Minnesota) -- December 23, 2023
-  <br/>
-  Tapestry (Minneapolis, Minnesota) -- January 6, 2024
-  <br/>
-  Twin Cities Queer Contra -- January, 8, 2024
+  I have no other scheduled gigs at the moment, but feel free to reach out if you would like to hire me!

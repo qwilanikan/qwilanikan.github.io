@@ -10,6 +10,17 @@ image:
 
 
 <h4 class="post-description">All the places I've called in the past!</h4>
+
+<br/>
+Twin Cities Queer Contra -- January, 8, 2024
+<br/>
+Tapestry (Minneapolis, Minnesota) -- January 6, 2024
+<br/>
+Tapestry (Minneapolis, Minnesota) -- December 23, 2023
+<br/>
+Chicago Monday Night -- December 18, 2023
+<br/>
+Ann Arbor 2nd Saturday Contra (Michigan) -- December 9, 2023
 <br/>
 Ottawa (Ontario, Canada) -- December 2, 2023
 <br/>

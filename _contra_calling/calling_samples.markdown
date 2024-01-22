@@ -6,12 +6,6 @@ img:
 
 ---
 
-
-<!-- Maybe have each separate.... or Maybe have link youtube, not sure...
-or can I nest pages?
-
-https://www.youtube.com/watch?v=M7o2cP3Oyaw -->
-
 Butter by Gene Hubert In Ottawa (December 2, 2023) with Les Quatre Patates playing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vcJxJW9jGJk?si=v3vonKpuO89HsQKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
