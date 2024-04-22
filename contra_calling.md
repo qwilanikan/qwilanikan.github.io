@@ -6,7 +6,7 @@ title_1: Qwill Duvall - Contra Dance Caller
 <img class="col one right profile-pic" src="/img/calling/calling_cropped.jpeg">
 
 <br/>
-Hello all! I am a contra dancer and caller from the midwest.  I began contra dancing in 2015 shortly after moving to Chicago.  A couple years later I began regularly traveling for dancing and I started calling in 2019.  I called regularly in the Chicago area during 2019 and the beginning of 2020, and I was just thinking about going on tour when the pandemic hit.  Since my work is now remote and dances have started back up, I am now on the road and touring! I've been at it since the beginning of 2023. I've called from the on both coasts, in the midwest and a smattering of other places!
+Hello all! I am a contra dancer and caller from the midwest.  I began contra dancing in 2015 shortly after moving to Chicago.  A couple years later I began regularly traveling for dancing and I started calling in 2019.  I called regularly in the Chicago area during 2019 and the beginning of 2020, and I was just thinking about going on tour when the pandemic hit.  Since my work is now remote and dances have started back up, I am now on the road and touring! I've been at it since the beginning of 2023. I've called on both coasts, in the midwest and a smattering of other places!
 <!--<a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>-->
 
 <br/>

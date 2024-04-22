@@ -12,6 +12,12 @@ image:
 <h4 class="post-description">All the places I've called in the past!</h4>
 
 <br/>
+NEFFA Session (Queer as Folk Dance) -- April 20, 2024
+<br/>
+Twin Cities Queer Contra -- April 8, 2024
+<br/>
+Chicago Monday Night -- March 25, 2024
+<br/>
 Twin Cities Queer Contra -- January, 8, 2024
 <br/>
 Tapestry (Minneapolis, Minnesota) -- January 6, 2024

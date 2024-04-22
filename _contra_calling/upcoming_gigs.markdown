@@ -13,6 +13,19 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  I will be calling a session at NEFFA in April 2024!
+  Chicago Queer Contra, July 20, 2024
   <br/>
-  I have no other scheduled gigs at the moment, but feel free to reach out if you would like to hire me!
+  Chicago Monday Night, July 22, 2024
+  <br/>
+  Urbana, August 2, 2024
+  <br/>
+  St. Louis, August 4, 2024
+  <br/>
+  Louisville, August 5, 2024
+  <br/>
+  Surry, September 14, 2024
+  <br/>
+  Kennebec, September 28, 2024
+  <br/>
+  <br/>
+  And more TBD!
