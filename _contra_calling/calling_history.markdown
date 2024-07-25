@@ -10,7 +10,14 @@ image:
 
 
 <h4 class="post-description">All the places I've called in the past!</h4>
-
+<br/>
+Chicago Monday Night, July 22, 2024
+<br/>
+Chicago Queer Contra, July 20, 2024
+<br/>
+Tapestry Minneapolis, July 6, 2024
+<br/>
+Northfield MN Farm Dance, June 15, 2024
 <br/>
 NEFFA Session (Queer as Folk Dance) -- April 20, 2024
 <br/>

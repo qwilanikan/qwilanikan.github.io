@@ -13,19 +13,11 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  Northfield MN Farm Dance, June 15, 2024
+  Urbana, IL, August 2, 2024
   <br/>
-  Tapestry Minneapolis, July 6, 2024
+  St. Louis, MO, August 4, 2024
   <br/>
-  Chicago Queer Contra, July 20, 2024
-  <br/>
-  Chicago Monday Night, July 22, 2024
-  <br/>
-  Urbana, August 2, 2024
-  <br/>
-  St. Louis, August 4, 2024
-  <br/>
-  Louisville, August 5, 2024
+  Louisville, KY, August 5, 2024
   <br/>
   Ann Arbor, MI, August 17, 2024
   <br/>
@@ -33,11 +25,19 @@ image:
   <br/>
   Montréal, August 24, 2024
   <br/>
-  Surry, September 14, 2024
+  Surry, ME, September 14, 2024
   <br/>
-  Kennebec, September 28, 2024
+  Lewiston, ME, September 20, 2024
   <br/>
-  Philadelphia, October 10, 2024
+  Kennebec, ME, September 28, 2024
+  <br/>
+  Princeton, NJ, October 9, 2024
+  <br/>
+  Philadelphia, PA, October 10, 2024
+  <br/>
+  Albany, NY, October 11, 2024
+  <br/>
+  Swingin' Tern, Chatham, NJ, November 2, 2024
   <br/>
   <br/>
   And more TBD!
