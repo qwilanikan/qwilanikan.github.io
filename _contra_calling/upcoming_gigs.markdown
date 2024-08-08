@@ -13,12 +13,6 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
   <br/>
-  Urbana, IL, August 2, 2024
-  <br/>
-  St. Louis, MO, August 4, 2024
-  <br/>
-  Louisville, KY, August 5, 2024
-  <br/>
   Ann Arbor, MI, August 17, 2024
   <br/>
   Burlington, VT, August 23, 2024
