@@ -12,6 +12,14 @@ image:
 <h4 class="post-description">All the places I've called in the past!</h4>
 
 <br/>
+Youth Dance Weekend Techno Contra, September 6, 2024
+<br/>
+Montréal, August 24, 2024
+<br/>
+Burlington, VT, August 23, 2024
+<br/>
+Ann Arbor, MI, August 17, 2024
+<br/>
 Louisville, KY, August 5, 2024
 <br/>
 St. Louis, MO, August 4, 2024
