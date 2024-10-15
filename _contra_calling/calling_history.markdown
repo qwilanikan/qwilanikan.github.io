@@ -12,6 +12,18 @@ image:
 <h4 class="post-description">All the places I've called in the past!</h4>
 
 <br/>
+Albany, NY, October 11, 2024
+<br/>
+Philadelphia, PA, October 10, 2024
+<br/>
+Princeton, NJ, October 9, 2024
+<br/>
+Kennebec, ME, September 28, 2024
+<br/>
+Lewiston, ME, September 20, 2024
+<br/>
+Surry, ME, September 14, 2024
+<br/>
 Youth Dance Weekend Techno Contra, September 6, 2024
 <br/>
 Montréal, August 24, 2024
