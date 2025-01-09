@@ -12,6 +12,10 @@ image:
 <h4 class="post-description">All the places I've called in the past!</h4>
 
 <br/>
+Tapestry Techno Contra, MN, December 30, 2024
+<br/>
+Swingin' Tern, Chatham, NJ, November 2, 2024
+<br/>
 Albany, NY, October 11, 2024
 <br/>
 Philadelphia, PA, October 10, 2024
