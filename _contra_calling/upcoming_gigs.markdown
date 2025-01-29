@@ -14,12 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Bangor Contram, ME, January 24, 2025
-  <br/>
-  Kennebec, ME, January 25, 2025
-  <br/>
-  Freeport Grange, ME, January 26, 2025
-  <br/>
   Montpellier, VT, February 1, 2025
   <br/>
   BIDA, Boston, MA, February 2, 2025
@@ -50,6 +44,9 @@ image:
   <br/>
   Rohoboth, MA, April 25, 2025
   <br/>
+  NEFFA Session (Breaking the Chain), April 27, 2025
+  <br/>
   Brooklyn Contra Double Dance May 3, 2025
   <br/>
+  Mt. Airy, Philadelphia, PA, May 8, 2025
   And more TBD!

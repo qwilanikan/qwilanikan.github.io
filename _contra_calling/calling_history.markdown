@@ -12,43 +12,49 @@ image:
 <h4 class="post-description">All the places I've called in the past!</h4>
 
 <br/>
-Tapestry Techno Contra, MN, December 30, 2024
+Freeport Grange, ME -- January 26, 2025
 <br/>
-Swingin' Tern, Chatham, NJ, November 2, 2024
+Kennebec, ME -- January 25, 2025
 <br/>
-Albany, NY, October 11, 2024
+Bangor Contram, ME -- January 24, 2025
 <br/>
-Philadelphia, PA, October 10, 2024
+Tapestry Techno Contra, MN -- December 30, 2024
 <br/>
-Princeton, NJ, October 9, 2024
+Swingin' Tern, Chatham, NJ -- November 2, 2024
 <br/>
-Kennebec, ME, September 28, 2024
+Albany, NY -- October 11, 2024
 <br/>
-Lewiston, ME, September 20, 2024
+Mt. Airy, Philadelphia, PA -- October 10, 2024
 <br/>
-Surry, ME, September 14, 2024
+Princeton, NJ -- October 9, 2024
 <br/>
-Youth Dance Weekend Techno Contra, September 6, 2024
+Kennebec, ME -- September 28, 2024
 <br/>
-Montréal, August 24, 2024
+Lewiston, ME -- September 20, 2024
 <br/>
-Burlington, VT, August 23, 2024
+Surry, ME -- September 14, 2024
 <br/>
-Ann Arbor, MI, August 17, 2024
+Youth Dance Weekend Techno Contra -- September 6, 2024
 <br/>
-Louisville, KY, August 5, 2024
+Montréal -- August 24, 2024
 <br/>
-St. Louis, MO, August 4, 2024
+Burlington, VT -- August 23, 2024
 <br/>
-Urbana, IL, August 2, 2024
+Ann Arbor, MI -- August 17, 2024
 <br/>
-Chicago Monday Night, July 22, 2024
+Louisville, KY -- August 5, 2024
 <br/>
-Chicago Queer Contra, July 20, 2024
+St. Louis, MO -- August 4, 2024
 <br/>
-Tapestry Minneapolis, July 6, 2024
+Urbana, IL -- August 2, 2024
 <br/>
-Northfield, MN Farm Dance, June 15, 2024
+Chicago Monday Night -- July 22, 2024
+<br/>
+Chicago Queer Contra -- July 20, 2024
+<br/>
+Tapestry Minneapolis -- July 6, 2024
+<br/>
+Northfield, MN Farm Dance -- June 15, 2024
 <br/>
 NEFFA Session (Queer as Folk Dance) -- April 20, 2024
 <br/>
