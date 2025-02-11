@@ -14,12 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Montpellier, VT, February 1, 2025
-  <br/>
-  BIDA, Boston, MA, February 2, 2025
-  <br/>
-  Brattleboro, VT, February 9, 2025
-  <br/>
   Amherst, MA, February 19, 2025
   <br/>
   CDNY, NY, NY, February 22, 2025
