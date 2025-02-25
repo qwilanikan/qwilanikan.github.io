@@ -7,16 +7,12 @@ img: /img/calling/calling_2.jpg
 image:
     - src: /img/calling/calling_2.jpg
 ---
-<figure>
+<!-- <figure>
   <img class="background-image" src="{{ page.image[0].src}}">
-</figure>
+</figure> -->
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
-  <br/>
-  Amherst, MA, February 19, 2025
-  <br/>
-  CDNY, NY, NY, February 22, 2025
   <br/>
   Baltimore, MD, February 26, 2025
   <br/>
@@ -43,4 +39,5 @@ image:
   Brooklyn Contra Double Dance May 3, 2025
   <br/>
   Mt. Airy, Philadelphia, PA, May 8, 2025
+  <br/>
   And more TBD!

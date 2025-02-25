@@ -3,14 +3,17 @@ layout: separate_post
 title: Calling History
 description:
 year:
-img:
+img: /img/calling/dancers.jpeg
 image:
 
 ---
 
+<h4 class="post-description">All the places I've called in the past:</h4>
 
-<h4 class="post-description">All the places I've called in the past!</h4>
-
+<br/>
+Country Dance New York, NY -- February 22, 2025
+<br/>
+Amherst, MA -- February 19, 2025
 <br/>
 Brattleboro, VT -- February 9, 2025
 <br/>
