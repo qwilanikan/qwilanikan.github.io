@@ -11,6 +11,8 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Cornwall, VT -- April 12, 2025
+<br/>
 Albany, NY -- April 11, 2025
 <br/>
 Brooklyn, NY -- April 6, 2025
