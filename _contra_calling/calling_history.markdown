@@ -11,6 +11,24 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Albany, NY -- April 11, 2025
+<br/>
+Brooklyn, NY -- April 6, 2025
+<br/>
+Crozet, VA -- March 21, 2025
+<br/>
+Swingin Tern’, Chatham NJ -- March 15, 2025
+<br/>
+Poughkeepsie, NY -- March 8, 2025
+<br/>
+Princeton, NJ -- March 5, 2025
+<br/>
+Arden, DE -- March 2, 2025
+<br/>
+Glenn Echo, MD -- February 28, 2025
+<br/>
+Baltimore, MD -- February 26, 2025
+<br/>
 Country Dance New York, NY -- February 22, 2025
 <br/>
 Amherst, MA -- February 19, 2025
@@ -155,6 +173,6 @@ House party at Rob and Amy’s, Chicago, IL -- October 19, 2019
 <br/>
 2 slots of two dances each at Sugar Hill -- Summer 2019
 <br/>
-Chicago Monday night (split with Jo Mortland), IL -- July 15, 2019
+Chicago Monday night (with Jo Mortland), IL -- July 15, 2019
 <br/>
 Chicago Queer contra, IL -- June 15, 2019

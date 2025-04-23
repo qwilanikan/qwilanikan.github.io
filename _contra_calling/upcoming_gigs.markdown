@@ -14,30 +14,50 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Baltimore, MD, February 26, 2025
+  Rohoboth, MA -- April 25, 2025
   <br/>
-  Glenn Echo, MD, February 28, 2025
+  NEFFA Session (Breaking the Chain) -- April 27, 2025
   <br/>
-  Arden, DE, March 2, 2025
+  Brooklyn Contra Double Dance (with Sunny Lawrence) -- May 3, 2025
   <br/>
-  Princeton, NJ, March 5, 2025
+  Mt. Airy, Philadelphia, PA -- May 8, 2025
   <br/>
-  Poughkeepsie, NY, March 8, 2025
+  Twin Cities Queer Contra, Minneapolis, MN -- June 9, 2025
   <br/>
-  Swingin Tern’, Chatham NJ, March 15, 2025
+  Tapestry, Minneapolis, MN -- June 21, 2025
   <br/>
-  Crozet, VA, March 21, 2025
+  Urbana, IL -- August 15, 2025
   <br/>
-  Brooklyn, NY, April 6, 2025
+  Chicago Queer Contra -- August 16, 2025
   <br/>
-  Albany, NY, April 11, 2025
+  Chicago Monday Night, IL -- August 18, 2025
   <br/>
-  Rohoboth, MA, April 25, 2025
+  Brooklyn, NY -- October 5, 2025
   <br/>
-  NEFFA Session (Breaking the Chain), April 27, 2025
+  Poughkeepsie, NY -- October 8, 2025
   <br/>
-  Brooklyn Contra Double Dance May 3, 2025
+  Concord Scout House, MA -- October 16, 2025
   <br/>
-  Mt. Airy, Philadelphia, PA, May 8, 2025
+  Bangor, ME -- October 24, 2025
+  <br/>
+  BIDA, Boston, MA -- November 2, 2025
+  <br/>
+  Belfast Flying Shoes, ME -- November 7, 2025
+  <br/>
+  Surry, ME --  November 8, 2025
+  <br/>
+  Portland Common Floor, ME -- November 9, 2025
+  <br/>
+  Bethlehem, PA -- November 28, 2025
+  <br/>
+  ContraCopia, Philadelphia, PA -- November 29, 2025
+  <br/>
+  Glen Echo, MD (with River Rainbowface) -- March 27, 2026
+  <br/>
+  HashDance, Glen Echo, MD -- March 28 + 29, 2026
+  <br/>
+  Albany, NY -- April 10, 2026
+  <br/>
+  Tophill, Greenfield, MA -- April 11, 2026
   <br/>
   And more TBD!
