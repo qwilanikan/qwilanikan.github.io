@@ -11,6 +11,12 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Brooklyn Contra Double Dance (with Sunny Lawrence) -- May 3, 2025
+<br/>
+NEFFA Session (Breaking the Chain) -- April 27, 2025
+<br/>
+Rohoboth, MA -- April 25, 2025
+<br/>
 Cornwall, VT -- April 12, 2025
 <br/>
 Albany, NY -- April 11, 2025

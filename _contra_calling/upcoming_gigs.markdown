@@ -14,12 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Rohoboth, MA -- April 25, 2025
-  <br/>
-  NEFFA Session (Breaking the Chain) -- April 27, 2025
-  <br/>
-  Brooklyn Contra Double Dance (with Sunny Lawrence) -- May 3, 2025
-  <br/>
   Mt. Airy, Philadelphia, PA -- May 8, 2025
   <br/>
   Twin Cities Queer Contra, Minneapolis, MN -- June 9, 2025
@@ -40,6 +34,8 @@ image:
   <br/>
   Bangor, ME -- October 24, 2025
   <br/>
+  Greenfield, MA -- October 31, 2025
+  <br/>
   BIDA, Boston, MA -- November 2, 2025
   <br/>
   Belfast Flying Shoes, ME -- November 7, 2025
@@ -52,6 +48,10 @@ image:
   <br/>
   ContraCopia, Philadelphia, PA -- November 29, 2025
   <br/>
+  Baltimore, MD -- December 3, 2025
+  <br/>
+  Glen Echo, MD -- December 5, 2025
+  <br/>
   Glen Echo, MD (with River Rainbowface) -- March 27, 2026
   <br/>
   HashDance, Glen Echo, MD -- March 28 + 29, 2026
@@ -59,5 +59,6 @@ image:
   Albany, NY -- April 10, 2026
   <br/>
   Tophill, Greenfield, MA -- April 11, 2026
+  <br/>
   <br/>
   And more TBD!
