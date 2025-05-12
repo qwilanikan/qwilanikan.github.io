@@ -11,6 +11,8 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Mt. Airy, Philadelphia, PA -- May 8, 2025
+<br/>
 Brooklyn Contra Double Dance (with Sunny Lawrence) -- May 3, 2025
 <br/>
 NEFFA Session (Breaking the Chain) -- April 27, 2025
@@ -23,7 +25,7 @@ Albany, NY -- April 11, 2025
 <br/>
 Brooklyn, NY -- April 6, 2025
 <br/>
-Crozet, VA -- March 21, 2025
+Rivanna Contra, Crozet, VA -- March 21, 2025
 <br/>
 Swingin Tern’, Chatham NJ -- March 15, 2025
 <br/>

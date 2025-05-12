@@ -14,8 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Mt. Airy, Philadelphia, PA -- May 8, 2025
-  <br/>
   Twin Cities Queer Contra, Minneapolis, MN -- June 9, 2025
   <br/>
   Tapestry, Minneapolis, MN -- June 21, 2025
