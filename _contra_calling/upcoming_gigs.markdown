@@ -14,9 +14,7 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Twin Cities Queer Contra, Minneapolis, MN -- June 9, 2025
-  <br/>
-  Tapestry, Minneapolis, MN -- June 21, 2025
+  Tapestry, Minneapolis, MN -- July 19, 2025
   <br/>
   Urbana, IL -- August 15, 2025
   <br/>
@@ -30,9 +28,15 @@ image:
   <br/>
   Concord Scout House, MA -- October 16, 2025
   <br/>
+  Fall Ball Peterborough, NH -- October 18, 2025
+  <br/>
+  Portland In Town Contra, ME -- October 23, 2025
+  <br/>
   Bangor, ME -- October 24, 2025
   <br/>
   Greenfield, MA -- October 31, 2025
+  <br/>
+  Montpelier, VT -- November 1, 2025
   <br/>
   BIDA, Boston, MA -- November 2, 2025
   <br/>
@@ -42,6 +46,10 @@ image:
   <br/>
   Portland Common Floor, ME -- November 9, 2025
   <br/>
+  Troy Queer contra, NY -- November 22, 2025
+  <br/>
+  Princeton, NJ -- November 26, 2025
+  <br/>
   Bethlehem, PA -- November 28, 2025
   <br/>
   ContraCopia, Philadelphia, PA -- November 29, 2025
@@ -49,6 +57,8 @@ image:
   Baltimore, MD -- December 3, 2025
   <br/>
   Glen Echo, MD -- December 5, 2025
+  <br/>
+  Sheperdstown, WV -- December 6, 2025
   <br/>
   Glen Echo, MD (with River Rainbowface) -- March 27, 2026
   <br/>
