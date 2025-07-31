@@ -11,6 +11,8 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Tapestry, Minneapolis, MN -- July 19, 2025
+<br/>
 Tapestry, Minneapolis, MN -- June 21, 2025
 <br/>
 Twin Cities Queer Contra, Minneapolis, MN -- June 9, 2025

@@ -14,8 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Tapestry, Minneapolis, MN -- July 19, 2025
-  <br/>
   Urbana, IL -- August 15, 2025
   <br/>
   Chicago Queer Contra -- August 16, 2025
@@ -24,11 +22,11 @@ image:
   <br/>
   Brooklyn, NY -- October 5, 2025
   <br/>
-  Poughkeepsie, NY -- October 8, 2025
+  Poughkeepsie, NY -- October 11, 2025
   <br/>
   Concord Scout House, MA -- October 16, 2025
   <br/>
-  Fall Ball Peterborough, NH -- October 18, 2025
+  Fall Ball, Peterborough, NH -- October 18, 2025
   <br/>
   Portland In Town Contra, ME -- October 23, 2025
   <br/>
