@@ -11,6 +11,14 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Sugar Hill (dance games workshop and two evening calling slots) IN -- August 22 + 23
+<br/>
+Chicago Monday Night, IL -- August 18, 2025
+<br/>
+Chicago Queer Contra -- August 16, 2025
+<br/>
+Urbana, IL -- August 15, 2025
+<br/>
 Tapestry, Minneapolis, MN -- July 19, 2025
 <br/>
 Tapestry, Minneapolis, MN -- June 21, 2025

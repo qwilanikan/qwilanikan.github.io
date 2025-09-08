@@ -14,11 +14,7 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Urbana, IL -- August 15, 2025
-  <br/>
-  Chicago Queer Contra -- August 16, 2025
-  <br/>
-  Chicago Monday Night, IL -- August 18, 2025
+  Ottawa, CA -- September 20, 2025
   <br/>
   Brooklyn, NY -- October 5, 2025
   <br/>
@@ -48,7 +44,7 @@ image:
   <br/>
   Princeton, NJ -- November 26, 2025
   <br/>
-  Bethlehem, PA -- November 28, 2025
+  ValleyCopia Bethlehem, PA -- November 28, 2025
   <br/>
   ContraCopia, Philadelphia, PA -- November 29, 2025
   <br/>
@@ -56,7 +52,24 @@ image:
   <br/>
   Glen Echo, MD -- December 5, 2025
   <br/>
+  Glen Echo, MD (Callers workshop) -- December 6, 2025
+  <br/>
   Sheperdstown, WV -- December 6, 2025
+  <br/>
+  Tapestry, Minneapolis, MN -- December 20, 2025
+  <br/>
+
+
+
+  Experienced dance Greenfield, MA -- February 27, 2026
+  <br/>
+  Lewiston, ME -- March 13, 2026
+  <br/>
+  Surry, ME --  March 14, 2026
+  <br/>
+  Amherst, MA -- March 18, 2026
+  <br/>
+  BIDA, Boston, MA -- March 22, 2026
   <br/>
   Glen Echo, MD (with River Rainbowface) -- March 27, 2026
   <br/>
