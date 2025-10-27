@@ -14,20 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Ottawa, CA -- September 20, 2025
-  <br/>
-  Brooklyn, NY -- October 5, 2025
-  <br/>
-  Poughkeepsie, NY -- October 11, 2025
-  <br/>
-  Concord Scout House, MA -- October 16, 2025
-  <br/>
-  Fall Ball, Peterborough, NH -- October 18, 2025
-  <br/>
-  Portland In Town Contra, ME -- October 23, 2025
-  <br/>
-  Bangor, ME -- October 24, 2025
-  <br/>
   Greenfield, MA -- October 31, 2025
   <br/>
   Montpelier, VT -- November 1, 2025

@@ -11,6 +11,20 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Bangor, ME -- October 24, 2025
+<br/>
+Portland In Town Contra, ME -- October 23, 2025
+<br/>
+Fall Ball, Peterborough, NH -- October 18, 2025
+<br/>
+Concord Scout House, MA -- October 16, 2025
+<br/>
+Poughkeepsie, NY -- October 11, 2025
+<br/>
+Brooklyn, NY -- October 5, 2025
+<br/>
+Ottawa, CA -- September 20, 2025
+<br/>
 Sugar Hill (dance games workshop and two evening calling slots) IN -- August 22 + 23
 <br/>
 Chicago Monday Night, IL -- August 18, 2025
