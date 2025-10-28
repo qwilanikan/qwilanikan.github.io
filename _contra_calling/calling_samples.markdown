@@ -10,9 +10,13 @@ Butter by Gene Hubert In Ottawa (December 2, 2023) with Les Quatre Patates playi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vcJxJW9jGJk?si=v3vonKpuO89HsQKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
-United We Dance by Bob Isaacs In Chicago (2019) with the Resurrection Marys playing
+Ever changing Medley In Brooklyn (May 3, 2025) with Countercurrent playing
+<iframe width="560" height="315" src="https://youtube.com/embed/YZ8JJp5W1Rc?si=SYRxF_gbHuCYgAJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+United We Dance by Bob Isaacs In Chicago (2019) with The Resurrection Marys playing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M7o2cP3Oyaw?si=7YF5cGm5pIe03jrp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
-For fun, a video of singing with the Resurrection Marys during a contra (2019)
+For fun, a video of singing with The Resurrection Marys during a contra (2019)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NimYGDU0WZM?si=w_bGMcmGimBPjxtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
