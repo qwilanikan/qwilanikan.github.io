@@ -11,25 +11,31 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
-Bangor, ME -- October 24, 2025
+BIDA, Boston, MA -- November 2, 2025 (with Daybreak Trio)
 <br/>
-Portland In Town Contra, ME -- October 23, 2025
+Montpelier, VT -- November 1, 2025 (with Daybreak Trio)
 <br/>
-Fall Ball, Peterborough, NH -- October 18, 2025
+Greenfield, MA -- October 31, 2025 (with Daybreak Trio)
 <br/>
-Concord Scout House, MA -- October 16, 2025
+Bangor, ME -- October 24, 2025 (with Northwoods)
 <br/>
-Poughkeepsie, NY -- October 11, 2025
+Portland In Town Contra, ME -- October 23, 2025 (with Northwoods)
 <br/>
-Brooklyn, NY -- October 5, 2025
+Fall Ball, Peterborough, NH -- October 18, 2025 (with Eloise & Co)
 <br/>
-Ottawa, CA -- September 20, 2025
+Concord Scout House, MA -- October 16, 2025 (with Joy Factor)
 <br/>
-Sugar Hill (dance games workshop and two evening calling slots) IN -- August 22 + 23
+Poughkeepsie, NY -- October 11, 2025 (with The Star Charters)
+<br/>
+Brooklyn, NY -- October 5, 2025 (with The Star Charters)
+<br/>
+Ottawa, CA -- September 20, 2025 (with Kittiwake)
+<br/>
+Sugar Hill (dance games workshop and two evening calling slots), IN -- August 22 + 23, 2025
 <br/>
 Chicago Monday Night, IL -- August 18, 2025
 <br/>
-Chicago Queer Contra -- August 16, 2025
+Chicago Queer Contra -- August 16, 2025 (with Mulefoot)
 <br/>
 Urbana, IL -- August 15, 2025
 <br/>

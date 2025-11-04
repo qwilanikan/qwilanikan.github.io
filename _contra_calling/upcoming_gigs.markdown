@@ -14,39 +14,36 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Greenfield, MA -- October 31, 2025
+  [Belfast Flying Shoes](https://belfastflyingshoes.org/event/first-friday-dance-november-2025/), ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
   <br/>
-  Montpelier, VT -- November 1, 2025
+  [Surry](https://surrycontra.org/), ME --  November 8, 2025 (with Cojiro and Grace Hendrickson-Jones)
   <br/>
-  BIDA, Boston, MA -- November 2, 2025
+  [Portland Common Floor](https://www.commonfloorcontra.dance/#events), ME -- November 9, 2025 (with Cojiro and Grace Hendrickson-Jones)
   <br/>
-  Belfast Flying Shoes, ME -- November 7, 2025
+  [Troy Queer contra](https://www.lcfd.org/troy.html), NY -- November 22, 2025 (with Thunderwing)
   <br/>
-  Surry, ME --  November 8, 2025
+  [Princeton](https://www.princetoncountrydancers.org/what-is-contra-dance), NJ -- November 26, 2025 (with the PickUp Band (PUB))
   <br/>
-  Portland Common Floor, ME -- November 9, 2025
+  [ValleyCopia](https://valleycontradance.org/schedule.php) Bethlehem, PA -- November 28, 2025
   <br/>
-  Troy Queer contra, NY -- November 22, 2025
+  [ContraCopia](https://thursdaycontra.com/contracopia/), Philadelphia, PA -- November 29, 2025 (with Midnight On the Water)
   <br/>
-  Princeton, NJ -- November 26, 2025
+  [Baltimore](https://www.bfms.org/squarecontra.php), MD -- December 3, 2025 (with Raven & Goose)
   <br/>
-  ValleyCopia Bethlehem, PA -- November 28, 2025
-  <br/>
-  ContraCopia, Philadelphia, PA -- November 29, 2025
-  <br/>
-  Baltimore, MD -- December 3, 2025
-  <br/>
-  Glen Echo, MD -- December 5, 2025
+  [Glen Echo](https://www.eventbrite.com/e/contra-dance-with-qwill-duvall-calling-to-raven-goose-tickets-1698001160179?aff=odcleoeventsincollection), MD -- December 5, 2025 (with Raven & Goose)
   <br/>
   Glen Echo, MD (Callers workshop) -- December 6, 2025
   <br/>
-  Sheperdstown, WV -- December 6, 2025
+  [Sheperdstown](https://shepherdstownmusicanddance.wordpress.com/dances/), WV -- December 6, 2025 (with Raven & Goose)
   <br/>
-  Tapestry, Minneapolis, MN -- December 20, 2025
+  [Tapestry](https://www.tapestryfolkdance.org/contra), Minneapolis, MN -- December 20, 2025 (with Flannels & Fishnets)
   <br/>
 
 
 
+  <br/>
+  Chicago Monday Night -- Feb 2, 2026 (with Supertrad)
+  <br/>
   Experienced dance Greenfield, MA -- February 27, 2026
   <br/>
   Lewiston, ME -- March 13, 2026
