@@ -11,6 +11,12 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Belfast Flying Shoes, ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
+<br/>
+Surry, ME --  November 8, 2025 (with Cojiro and Grace Hendrickson-Jones)
+<br/>
+Portland Common Floor, ME -- November 9, 2025 (with Cojiro and Grace Hendrickson-Jones)
+<br/>
 BIDA, Boston, MA -- November 2, 2025 (with Daybreak Trio)
 <br/>
 Montpelier, VT -- November 1, 2025 (with Daybreak Trio)
@@ -45,21 +51,21 @@ Tapestry, Minneapolis, MN -- June 21, 2025
 <br/>
 Twin Cities Queer Contra, Minneapolis, MN -- June 9, 2025
 <br/>
-Mt. Airy, Philadelphia, PA -- May 8, 2025
+Mt. Airy, Philadelphia, PA -- May 8, 2025 (with The Rhythmajigs)
 <br/>
-Brooklyn Contra Double Dance (with Sunny Lawrence) -- May 3, 2025
+Brooklyn Contra Double Dance (with Sunny Lawrence) -- May 3, 2025 (with Countercurrent)
 <br/>
-NEFFA Session (Breaking the Chain) -- April 27, 2025
+NEFFA Session (Breaking the Chain) -- April 27, 2025 (with Chimney Swift)
 <br/>
 Rohoboth, MA -- April 25, 2025
 <br/>
 Cornwall, VT -- April 12, 2025
 <br/>
-Albany, NY -- April 11, 2025
+Albany, NY -- April 11, 2025 (with The Red Case Band)
 <br/>
 Brooklyn, NY -- April 6, 2025
 <br/>
-Rivanna Contra, Crozet, VA -- March 21, 2025
+Rivanna Contra, Crozet, VA -- March 21, 2025 (with The Rhythmajigs)
 <br/>
 Swingin Tern’, Chatham NJ -- March 15, 2025
 <br/>
@@ -215,7 +221,7 @@ Chicago Monday night dance, IL -- December 16, 2019
 <br/>
 House party at Rob and Amy’s, Chicago, IL -- October 19, 2019
 <br/>
-2 slots of two dances each at Sugar Hill -- Summer 2019
+Sugar Hill (2 slots of two dances each), IN -- Summer 2019
 <br/>
 Chicago Monday night (with Jo Mortland), IL -- July 15, 2019
 <br/>

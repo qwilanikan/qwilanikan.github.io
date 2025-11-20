@@ -22,7 +22,7 @@ Qwill brings an upbeat, playful energy to every dance, making the experience bot
 <div class="col three caption">
 	Shoot me an email if you'd like to book me for a gig!
   <br/>
-  References available on request.
+  References available upon request.
 </div>
 
 <br/>
