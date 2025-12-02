@@ -14,14 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  [Troy Queer contra](https://www.lcfd.org/troy.html), NY -- November 22, 2025 (with Thunderwing)
-  <br/>
-  [Princeton](https://www.princetoncountrydancers.org/what-is-contra-dance), NJ -- November 26, 2025 (with the PickUp Band (PUB))
-  <br/>
-  [ValleyCopia](https://valleycontradance.org/schedule.php) Bethlehem, PA -- November 28, 2025
-  <br/>
-  [ContraCopia](https://thursdaycontra.com/contracopia/), Philadelphia, PA -- November 29, 2025 (with Midnight On the Water)
-  <br/>
   [Baltimore](https://www.bfms.org/squarecontra.php), MD -- December 3, 2025 (with Raven & Goose)
   <br/>
   [Glen Echo](https://www.eventbrite.com/e/contra-dance-with-qwill-duvall-calling-to-raven-goose-tickets-1698001160179?aff=odcleoeventsincollection), MD -- December 5, 2025 (with Raven & Goose)
@@ -33,9 +25,10 @@ image:
   [Tapestry](https://www.tapestryfolkdance.org/contra), Minneapolis, MN -- December 20, 2025 (with Flannels & Fishnets)
   <br/>
 
-
   <br/>
   Twin Cities Queer Contra, MN -- January 12, 2026
+  <br/>
+  Tapestry Techno Contra, Minneapolis, MN -- January 26, 2026
   <br/>
   [Chicago Monday Night](https://www.chicagobarndance.org/) -- Feb 2, 2026 (with Supertrad)
   <br/>

@@ -11,6 +11,14 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+ContraCopia, Philadelphia, PA -- November 29, 2025 (with Midnight On the Water)
+<br/>
+ValleyCopia, Bethlehem, PA -- November 28, 2025
+<br/>
+Princeton, NJ -- November 26, 2025 (with the PickUp Band (PUB))
+<br/>
+Troy Queer Contra, NY -- November 22, 2025 (with Thunderwing)
+<br/>
 Belfast Flying Shoes, ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
 Surry, ME --  November 8, 2025 (with Cojiro and Grace Hendrickson-Jones)
