@@ -11,11 +11,19 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Sheperdstown, WV -- December 6, 2025 (with Raven & Goose)
+<br/>
+Glen Echo, MD (Callers workshop) -- December 6, 2025
+<br/>
+Glen Echo, MD -- December 5, 2025 (with Raven & Goose)
+<br/>
+Baltimore, MD -- December 3, 2025 (with Raven & Goose)
+<br/>
 ContraCopia, Philadelphia, PA -- November 29, 2025 (with Midnight On the Water)
 <br/>
-ValleyCopia, Bethlehem, PA -- November 28, 2025
+ValleyCopia, Bethlehem, PA -- November 28, 2025 (With River Road)
 <br/>
-Princeton, NJ -- November 26, 2025 (with the PickUp Band (PUB))
+Princeton, NJ -- November 26, 2025 (with the Pick Up Band (PUB))
 <br/>
 Troy Queer Contra, NY -- November 22, 2025 (with Thunderwing)
 <br/>
@@ -45,7 +53,7 @@ Brooklyn, NY -- October 5, 2025 (with The Star Charters)
 <br/>
 Ottawa, CA -- September 20, 2025 (with Kittiwake)
 <br/>
-Sugar Hill (dance games workshop and two evening calling slots), IN -- August 22 + 23, 2025
+Sugar Hill (Dance games workshop and two evening calling slots), IN -- August 22 + 23, 2025
 <br/>
 Chicago Monday Night, IL -- August 18, 2025
 <br/>
