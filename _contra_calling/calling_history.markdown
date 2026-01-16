@@ -11,6 +11,10 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Twin Cities Queer Contra, MN -- January 12, 2026 (Techno with DJ Rynkie)
+<br/>
+Tapestry, Minneapolis, MN -- December 20, 2025 (with Flannels & Fishnets)
+<br/>
 Sheperdstown, WV -- December 6, 2025 (with Raven & Goose)
 <br/>
 Glen Echo, MD (Callers workshop) -- December 6, 2025

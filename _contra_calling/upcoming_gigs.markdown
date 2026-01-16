@@ -14,12 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  [Tapestry](https://www.tapestryfolkdance.org/contra), Minneapolis, MN -- December 20, 2025 (with Flannels & Fishnets)
-  <br/>
-
-  <br/>
-  Twin Cities Queer Contra, MN -- January 12, 2026
-  <br/>
   [Tapestry Techno Contra](https://www.tapestryfolkdance.org/contra), Minneapolis, MN -- January 26, 2026
   <br/>
   [Chicago Monday Night](https://www.chicagobarndance.org/) -- Feb 2, 2026 (with Supertrad)
@@ -40,6 +34,8 @@ image:
   <br/>
   Glen Echo, MD (with River Rainbowface) -- March 27, 2026 (with Eloise & Co)
   <br/>
+  Glen Echo, MD (Techno Contra) -- March 27, 2026
+  <br/>
   HashDance, Glen Echo, MD -- March 28 + 29, 2026 (with Eloise & Co and Northwoods)
   <br/>
   Baltimore, MD -- April 1, 2026 (with The Dead Sea Squirrels)
@@ -49,6 +45,10 @@ image:
   Albany, NY -- April 10, 2026
   <br/>
   Tophill, Greenfield, MA -- April 11, 2026
+  <br/>
+  NEFFA (Eye Love Contra session) -- April 25, 2026
+  <br/>
+  Circle Left, Oakland, CA -- May 2, 2026 
   <br/>
   Berkeley, CA -- May 6, 2026
   <br/>
