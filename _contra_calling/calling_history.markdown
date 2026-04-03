@@ -11,6 +11,28 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Baltimore, MD -- April 1, 2026 (with Contre Temps)
+<br/>
+Hashdance, Glen Echo, MD -- March 28 + 29, 2026 (with Eloise & Co and Northwoods)
+<br/>
+Glen Echo, MD (Techno Contra) -- March 27, 2026 (with DJ Improper)
+<br/>
+Glen Echo, MD (with River Rainbowface) -- March 27, 2026 (with Eloise & Co)
+<br/>
+BIDA, Cambridge, MA -- March 22, 2026 (with Cojiro and Grace Hendrickson-Jones)
+<br/>
+Concord, MA -- March 19, 2026 (with Cojiro and Grace Hendrickson-Jones)
+<br/>
+Amherst, MA -- March 18, 2026 (with Cojiro and Grace Hendrickson-Jones)
+<br/>
+Surry, ME --  March 14, 2026 (with Cojiro)
+<br/>
+Lewiston, ME -- March 13, 2026 (with Cojiro)
+<br/>
+Montreal, Canada -- March 8, 2026 (with The Star Charters)
+<br/>
+Experienced dance Greenfield, MA -- February 27, 2026 (with Here on the Hill)
+<br/>
 Chicago Monday Night -- Feb 2, 2026 (with Supertrad)
 <br/>
 Tapestry Techno Contra, Minneapolis, MN -- January 26, 2026 (with DJ Rynkie))
