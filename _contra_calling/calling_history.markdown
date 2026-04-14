@@ -11,6 +11,42 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Barre Queer Contra, VT -- August 16, 2026 (with Cojiro and Aaron Marcus)
+<br/>
+Montpelier, VT -- August 15, 2026 (with Cojiro)
+<br/>
+Tapestry, Minneapolis, MN -- July 4, 2026 (with Northern Aire)
+<br/>
+Madison, WI -- June 2, 2026 (with the Open Band lead by Carol Ormand)
+<br/>
+Chicago Monday Night, IL -- June 1, 2026 (with Ship of Fools)
+<br/>
+Phinney Seattle Dance, WA -- May 29, 2026 (with Raven & Goose)
+<br/>
+Folklife, Seattle, WA -- May 22, 2026 (with Starshine)
+<br/>
+San Francisco, CA -- May 13, 2026 (with The Contranauts)
+<br/>
+Hayward, CA -- May 10, 2026 (with The Flagstones)
+<br/>
+Palo Alto, CA -- May 9, 2026 (with Punch Party)
+<br/>
+Berkeley, CA -- May 6, 2026 (with Green Gates)
+<br/>
+Circle Left, Oakland, CA -- May 2, 2026 (with The Whoots)
+<br/>
+NEFFA (Eye Love Contra session) -- April 25, 2026 (with Cojiro and Grace Hendrickson Jones)
+<br/>
+Montreal Contra, QC -- April 12, 2026 (with Maia, Mckinley, Francois)
+<br/>
+Tophill, Greenfield, MA -- April 11, 2026 (with Red Case Band)
+<br/>
+Smith College (Private Party) -- April 10, 2026 (with Mo Brachfeld and Casey Murray)
+<br/>
+Brooklyn Contra, NYC, NY -- April 5, 2026 (with Kaleidoscope)
+<br/>
+Swingin Tern, Chatam, NJ -- April 4, 2026 (with Kaleidoscope)
+<br/>
 Baltimore, MD -- April 1, 2026 (with Contre Temps)
 <br/>
 Hashdance, Glen Echo, MD -- March 28 + 29, 2026 (with Eloise & Co and Northwoods)
@@ -57,13 +93,13 @@ Princeton, NJ -- November 26, 2025 (with the Pick Up Band (PUB))
 <br/>
 Troy Queer Contra, NY -- November 22, 2025 (with Thunderwing)
 <br/>
-Belfast Flying Shoes, ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
+Portland Common Floor, ME -- November 9, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
 Surry, ME --  November 8, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
-Portland Common Floor, ME -- November 9, 2025 (with Cojiro and Grace Hendrickson-Jones)
+Belfast Flying Shoes, ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
-BIDA, Boston, MA -- November 2, 2025 (with Daybreak Trio)
+BIDA, Cambridge, MA -- November 2, 2025 (with Daybreak Trio)
 <br/>
 Montpelier, VT -- November 1, 2025 (with Daybreak Trio)
 <br/>
@@ -131,7 +167,7 @@ Amherst, MA -- February 19, 2025
 <br/>
 Brattleboro, VT -- February 9, 2025
 <br/>
-BIDA, Boston, MA -- February 2, 2025
+BIDA, Cambridge, MA -- February 2, 2025
 <br/>
 Montpelier, VT -- February 1, 2025
 <br/>
@@ -217,7 +253,7 @@ Common Floor, Portland, ME -- September 10, 2023
 <br/>
 Surry Contra Dance, ME -- September 9, 2023
 <br/>
-BIDA, Boston, MA -- September 3, 2023
+BIDA, Cambridge, MA -- September 3, 2023
 <br/>
 Chicago Queer Contra, IL -- August 12, 2023
 <br/>
