@@ -11,6 +11,16 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Montreal Contra
+<br/>
+Tophill, Greenfield, MA -- April 11, 2026 (with Red Case Band)
+<br/>
+Smith College (Private Party) -- April 10, 2026 (with Mo Brachfeld and Casey Murray)
+<br/>
+Brooklyn Contra, NYC, NY -- April 5, 2026 (with Kaleidoscope)
+<br/>
+Swingin Tern, Chatam, NJ -- April 4, 2026 (with Kaleidoscope)
+<br/>
 Baltimore, MD -- April 1, 2026 (with Contre Temps)
 <br/>
 Hashdance, Glen Echo, MD -- March 28 + 29, 2026 (with Eloise & Co and Northwoods)
@@ -57,11 +67,11 @@ Princeton, NJ -- November 26, 2025 (with the Pick Up Band (PUB))
 <br/>
 Troy Queer Contra, NY -- November 22, 2025 (with Thunderwing)
 <br/>
-Belfast Flying Shoes, ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
+Portland Common Floor, ME -- November 9, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
 Surry, ME --  November 8, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
-Portland Common Floor, ME -- November 9, 2025 (with Cojiro and Grace Hendrickson-Jones)
+Belfast Flying Shoes, ME -- November 7, 2025 (with Cojiro and Grace Hendrickson-Jones)
 <br/>
 BIDA, Boston, MA -- November 2, 2025 (with Daybreak Trio)
 <br/>

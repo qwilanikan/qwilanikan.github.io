@@ -13,13 +13,6 @@ image:
 
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
-  <br/>
-  Swingin Tern, Chatam, NJ -- April 4, 2026 (with Kaleidoscope)
-  <br/>
-  Brooklyn Contra, NYC, NY -- April 5, 2026 (with Kaleidoscope)
-  <br/>
-  Smith College (Private Party) -- April 10, 2026
-  <br/>
   NEFFA (Eye Love Contra session) -- April 25, 2026
   <br/>
   Circle Left, Oakland, CA -- May 2, 2026
