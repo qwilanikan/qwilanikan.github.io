@@ -11,6 +11,12 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+Cornell University, NY -- September 18, 2026 (with Raven & Goose)
+<br/>
+Rochester Fringe Festival, NY -- September 17, 2026 (with Raven & Goose)
+<br/>
+Ann Arbor, MI -- September 12, 2026
+<br/>
 Barre Queer Contra, VT -- August 16, 2026 (with Cojiro and Aaron Marcus)
 <br/>
 Montpelier, VT -- August 15, 2026 (with Cojiro)

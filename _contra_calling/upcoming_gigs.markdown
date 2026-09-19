@@ -14,12 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Ann Arbor, MI -- September 12, 2026
-  <br/>
-  Rochester Fringe Festival, NY -- September 17, 2026 (with Raven & Goose)
-  <br/>
-  Cornell University, NY -- September 18, 2026 (with Raven & Goose)
-  <br/>
   Syracuse, NY -- September 19, 2026 (with Raven & Goose; split with Rachel Ameen)
   <br/>
   Rainbow Contra, Northampton, MA -- September 26, 2026
@@ -35,6 +29,10 @@ image:
   Kennebec Family Dance, ME -- October 24, 2026
   <br/>
   Kennebec, ME -- October 24, 2026 (with Cojiro)
+  <br/>
+  Montpelier, VT -- October 31, 2026 (with Aaron Marcus, Tory Horner, Rosemary Powell)
+  <br/>
+  Swapping Flourishes Workshop at 5 Borough Fling, NYC, NY -- November 8, 2026
   <br/>
   Private Wedding, IL -- November 14, 2026
   <br/>
