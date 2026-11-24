@@ -111,6 +111,7 @@ Tapestry Techno Contra, Minneapolis, MN -- January 26, 2026 (with DJ Rynkie))
 <br/>
 Twin Cities Queer Contra, MN -- January 12, 2026 (Techno with DJ Rynkie)
 <br/>
+<br/>
 Tapestry, Minneapolis, MN -- December 20, 2025 (with Flannels & Fishnets)
 <br/>
 Sheperdstown, WV -- December 6, 2025 (with Raven & Goose)
@@ -213,6 +214,7 @@ Kennebec, ME -- January 25, 2025
 <br/>
 Bangor, ME -- January 24, 2025
 <br/>
+<br/>
 Tapestry Techno Contra, Minneapolis, MN -- December 30, 2024
 <br/>
 Swingin' Tern, Chatham, NJ -- November 2, 2024
@@ -260,6 +262,7 @@ Chicago Monday Night, IL -- March 25, 2024
 Twin Cities Queer Contra, Minneapolis, MN -- January, 8, 2024
 <br/>
 Tapestry, Minneapolis, MN -- January 6, 2024
+<br/>
 <br/>
 Tapestry, Minneapolis, MN -- December 23, 2023
 <br/>
@@ -321,11 +324,14 @@ St. Louis Queer Contra, MO -- February 15, 2023
 <br/>
 Tapestry, Minneapolis, MN -- January 7, 2023 (techno)
 <br/>
+<br/>
 Twin Cities Queer Contra, Minneapolis, MN -- August 22, 2022
 <br/>
 Arden Contra, DE -- June 5, 2022
 <br/>
+<br/>
 Virtual Chicago Contra -- Summer 2021
+<br/>
 <br/>
 Urbana Contra Dance, IL -- March 6, 2020
 <br/>
@@ -334,6 +340,7 @@ Northwestern Contra Dance, Chicago, IL -- February 1, 2020
 Chicago Queer Contra, IL -- January 18, 2020
 <br/>
 University of Chicago Contra Dance, IL -- January 10, 2020
+<br/>
 <br/>
 Chicago Monday night dance, IL -- December 16, 2019
 <br/>
