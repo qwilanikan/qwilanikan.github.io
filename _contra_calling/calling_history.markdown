@@ -11,6 +11,34 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
+BIDA, Cambridge, MA -- November 22, 2026
+<br/>
+Madison, WI -- November 17, 2026
+<br/>
+Chicago, IL -- November 16, 2026 (with Big Brandy)
+<br/>
+Private Wedding, IL -- November 14, 2026
+<br/>
+Swapping Flourishes Workshop at 5 Borough Fling, NYC, NY -- November 8, 2026
+<br/>
+Montpelier, VT -- October 31, 2026 (with Aaron Marcus, Tory Horner, Rosemary Powell)
+<br/>
+Kennebec, ME -- October 24, 2026 (with Cojiro)
+<br/>
+Kennebec Family Dance, ME -- October 24, 2026
+<br/>
+Bangor, ME -- October 23, 2026 (with Cojiro)
+<br/>
+Portland In Town Contra, ME -- October 22, 2026
+<br/>
+Albany, NY -- October 9, 2026 (with Alex and Audrey)
+<br/>
+Mt. Airy, Philadelphia, PA -- October 1, 2026 (with Raven & Goose)
+<br/>
+Rainbow Contra, Northampton, MA -- September 26, 2026
+<br/>
+Syracuse, NY -- September 19, 2026 (with Raven & Goose; split with Rachel Ameen)
+<br/>
 Cornell University, NY -- September 18, 2026 (with Raven & Goose)
 <br/>
 Rochester Fringe Festival, NY -- September 17, 2026 (with Raven & Goose)

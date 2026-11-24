@@ -14,34 +14,6 @@ image:
   <h4 class="post-description">Here's where you can find me coming up!</h4>
 
   <br/>
-  Syracuse, NY -- September 19, 2026 (with Raven & Goose; split with Rachel Ameen)
-  <br/>
-  Rainbow Contra, Northampton, MA -- September 26, 2026
-  <br/>
-  Mt. Airy, Philadelphia, PA -- October 1, 2026 (with Raven & Goose)
-  <br/>
-  Albany, NY -- October 9, 2026 (with Alex and Audrey)
-  <br/>
-  Portland In Town Contra, ME -- October 22, 2026
-  <br/>
-  Bangor, ME -- October 23, 2026 (with Cojiro)
-  <br/>
-  Kennebec Family Dance, ME -- October 24, 2026
-  <br/>
-  Kennebec, ME -- October 24, 2026 (with Cojiro)
-  <br/>
-  Montpelier, VT -- October 31, 2026 (with Aaron Marcus, Tory Horner, Rosemary Powell)
-  <br/>
-  Swapping Flourishes Workshop at 5 Borough Fling, NYC, NY -- November 8, 2026
-  <br/>
-  Private Wedding, IL -- November 14, 2026
-  <br/>
-  Chicago, IL -- November 16, 2026 (with Big Brandy)
-  <br/>
-  Madison, WI -- November 17, 2026
-  <br/>
-  BIDA, Cambridge, MA -- November 22, 2026
-  <br/>
   Montreal, QC -- December 6, 2026
   <br/>
   Common Floor, Portland, ME -- December 13, 2026
@@ -56,7 +28,45 @@ image:
   <br/>
   Tapestry, Minneapolis, MN -- December 26, 2026
   <br/>
-  Bonjour-Hey, Montreal Dance Weekend, QC -- 2027
+  Twin Cities Queer Contra, Minneapolis, MN -- January 13, 2027
+  <br/>
+  Tapestry Techno Contra, Minneapolis, MN -- January 25, 2027
+  <br/>
+  Roaring Fork Valley Contra, Carbondale, CO -- March 6, 2027
+  <br/>
+  Denver, CO -- March 12, 2027
+  <br/>
+  Boulder, CO -- March 19, 2027
+  <br/>
+  Fort Collins, CO -- March 20, 2027
+  <br/>
+  Colorado Springs, CO -- March 21, 2027
+  <br/>
+  Baltimore, MD -- March 31, 2027
+  <br/>
+  Harrisburg, PA -- April 9, 2027
+  <br/>
+  Bethlehem, PA (Double Dance) -- April 10, 2027
+  <br/>
+  Bonjour-Hey, Montreal, QC -- April 16-18, 2027
+  <br/>
+  Circle Left, Oakland, CA -- May 1, 2027
+  <br/>
+  Palo Alto, CA -- May 8, 2027
+  <br/>
+  Hayward, CA -- May 9, 2027
+  <br/>
+  San Francisco, CA -- May 12, 2027
+  <br/>
+  Corvallis, OR -- May 15, 2027
+  <br/>
+  Chain Reaction, Surry, ME -- May 21-23, 2027
+  <br/>
+  LCFD Spring Camp, Pinewoods, Plymouth, MA -- June 11-13, 2027
+  <br/>
+  Chicago Queer Contra, IL -- September 18, 2027
+  <br/>
+  Tophill, Greenfield, MA -- October 9, 2027
   <br/>
   <br/>
   And more TBD!

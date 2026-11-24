@@ -16,6 +16,7 @@ Qwill brings an upbeat, playful energy to every dance, making the experience bot
 <br/>
 <span class="contacticon center">
 	<a href="mailto:qwill.duvall@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://www.instagram.com/qwillcallscontra/" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="http://facebook.com/QwillDuvallContraDanceCaller" target="_blank"><i class="fa fa-facebook-square"></i></a>
 </span>
 
