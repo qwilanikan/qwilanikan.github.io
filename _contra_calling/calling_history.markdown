@@ -11,9 +11,11 @@ image:
 <h4 class="post-description">All the places I've called in the past:</h4>
 
 <br/>
-BIDA, Cambridge, MA -- November 22, 2026
+Monday Contras, Concord, MA -- November 23, 2026 (with Cojiro)
 <br/>
-Madison, WI -- November 17, 2026
+BIDA, Cambridge, MA -- November 22, 2026 (with Supertrad)
+<br/>
+Madison, WI -- November 17, 2026 (with Cross Trail)
 <br/>
 Chicago, IL -- November 16, 2026 (with Big Brandy)
 <br/>
